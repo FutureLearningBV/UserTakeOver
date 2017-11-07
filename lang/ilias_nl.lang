@@ -1,0 +1,15 @@
+take_over_user_view#:#Gebruikersbeeld overnemen
+leave_user_view#:#Gebruikersbeeld verlaten
+user_taker_over_success#:#U heeft het gebruiksbeeld van %s successvol overgenomen.
+user_taker_back_success#:#U bent weer ingelogd als:  %s
+user_taker_over_failure#:#Er is een fout opgetreden
+no_permission#:#U heeft niet de juiste rechten!
+configuration#:#Configuratie
+demo_group#:#Demo groep
+demo_group_info#:#Gebruikers in de demo groep kunnen elkaar overnemen. Let op dat wanneer er een beheerder is in de demo groep alle leden van de groep beheerder kunnen worden.
+save#:#Opslaan
+success#:#Successvol opgeslagen.
+something_went_wrong#:#Er is iets mis gegaan.
+loading#:#Laden...
+no_results#:#Geen resultaat
+
